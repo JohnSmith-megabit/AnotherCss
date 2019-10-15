@@ -1,2 +1,2 @@
 # AnotherCss
-It's another CSS
+It's a CSS code for Another Page.
